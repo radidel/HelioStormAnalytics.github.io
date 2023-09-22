@@ -1,0 +1,35 @@
+# Information about Solar Storms
+
+- storm_event:
+    name: Solar Flare
+    description: A sudden burst of energy and radiation from the sun's surface.
+    impact_on_earth: 
+      - Causes radio signal disruptions
+      - Can affect satellite communications
+      - May lead to high-energy particle radiation in space
+
+- storm_event:
+    name: Coronal Mass Ejection (CME)
+    description: Massive explosions of solar material and magnetic fields from the sun's corona.
+    impact_on_earth: 
+      - Can cause geomagnetic storms
+      - Disrupts Earth's magnetic field
+      - Affects power grids and transformers
+      - May lead to beautiful auroras (Northern and Southern Lights)
+      - Poses risks to astronauts and satellites in space
+
+- space_weather_impacts:
+    - impact_type: Geomagnetic Storm
+      description: A disturbance in Earth's magnetic field caused by CMEs and solar flares.
+      effects:
+        - Can induce electric currents in power lines
+        - May disrupt GPS signals
+        - Affects high-latitude regions with spectacular auroras
+
+    - impact_type: Radiation Storm
+      description: High-energy particle radiation in space during solar storms.
+      effects:
+        - Poses health risks to astronauts in space
+        - May impact satellite and spacecraft operations
+
+# Additional information can be added as needed.
